@@ -7,8 +7,12 @@ body {
 body {
   background-color: #039be5;
 }
-.card-content h3 {
-  font-size: 1.4rem;
+.titulo{
+  font-size: 25px;
+  padding: 10px;
+}
+.descripcion{
+  padding:0px 10px;
 }
 .row {
   display: flex;
@@ -18,6 +22,7 @@ body {
   padding: 2rem;
   border-radius: 1rem;  
   margin-top: 3rem;
+  padding: 5px;
 }
 
 .buscador {
